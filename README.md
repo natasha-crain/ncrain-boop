@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ncrain-boop
-- 👀 I’m interested in web development and front end development
+- 👋 Hi, I’m Natasha (@ncrain-boop)! :D
+- 👀 I’m interested in web design and snazzy CSS animations.
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 
 <!---
